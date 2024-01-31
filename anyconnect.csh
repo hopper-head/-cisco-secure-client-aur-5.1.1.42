@@ -1,1 +1,1 @@
-setenv PATH "${PATH}:/opt/cisco/anyconnect/bin"
+setenv PATH "${PATH}:/opt/cisco/secureclient/bin"
